@@ -113,7 +113,7 @@ def changing_alan
     alans_new_info = "GUI"
 
     programmer_hash[:alan_kay][0] = alans_new_info
-    return programmer_hash    
+    return changing_alan    
 end
 
 
